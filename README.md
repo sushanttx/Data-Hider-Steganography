@@ -38,12 +38,4 @@ pip install pillow stegano
 - PIL (Python Imaging Library)
 - Stegano (for hiding and revealing messages in images)
 
-## Screenshots
-(Add screenshots here if available)
-
-## License
-This project is open-source and available under the MIT License.
-
-## Author
-Your Name (Replace with your name)
 
